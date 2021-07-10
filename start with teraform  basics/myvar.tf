@@ -1,4 +1,4 @@
-variable "myFfirstvar" {
+variable "myfirstvar" {
     type = string
     default = "Hello! Welcome Terrraform"
 }
